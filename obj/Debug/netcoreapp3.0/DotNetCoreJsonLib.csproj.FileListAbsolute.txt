@@ -1,0 +1,12 @@
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.csprojAssemblyReference.cache
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.csproj.CoreCompileInputs.cache
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.AssemblyInfoInputs.cache
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.AssemblyInfo.cs
+c:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.exe
+C:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.deps.json
+C:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.runtimeconfig.json
+C:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.runtimeconfig.dev.json
+c:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.dll
+c:\repos\DotNetCoreJsonLib\bin\Debug\netcoreapp3.0\DotNetCoreJsonLib.pdb
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.dll
+c:\repos\DotNetCoreJsonLib\obj\Debug\netcoreapp3.0\DotNetCoreJsonLib.pdb
